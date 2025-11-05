@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-javascript
+```javascript
 const apoorva = {
     education: "CS @ NIT Hamirpur | CGPA: 8.65",
     location: "Greater Noida, India",
@@ -32,6 +32,7 @@ const apoorva = {
     interests: ["System Design", "DSA", "Web Development"],
     openTo: "Collaborations and exciting projects"
 };
+```
 
 
 ---
