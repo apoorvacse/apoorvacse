@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Apoorva Singh
 
-### Full-Stack Developer | Problem Solving
+### Full-Stack Developer | Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorva-singh-373577258/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aanam03/)
